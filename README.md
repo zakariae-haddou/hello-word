@@ -1,2 +1,0 @@
-# hello-word
-frist reposition
